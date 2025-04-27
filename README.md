@@ -41,6 +41,6 @@ The Disaster Management UGV is designed to assist first responders during natura
 
 ## Screenshots
 
-![](https://github.com/Satyamtyagi12/Unmanned_Ground_Vehicle/blob/main/IMG_20231129_181016.jp)
+![]([https://github.com/Satyamtyagi12/Unmanned_Ground_Vehicle/blob/main/IMG_20231129_181016.jp](https://drive.google.com/file/d/1AWnAjrCVoCozi0m0r94fteCm_psmblUF/view?usp=sharing))
 
 
